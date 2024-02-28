@@ -77,3 +77,8 @@ img.full-width {
     margin-left: -50vw;
     margin-right: -50vw;
 }
+
+audio {
+    zoom: 50%;
+    /* height: 100px; */
+}
