@@ -1,0 +1,79 @@
+.country {
+    font-family: "Noto Color Emoji", "Arial";
+}
+
+
+body {
+    font-family: "Arial";
+    width: 90%;
+    margin: auto;
+    overflow-x: hidden;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    text-align: center;
+}
+
+h2.food {
+    color: orange;
+}
+
+h2.travel {
+    color: red;
+}
+
+
+
+td img {
+    max-width: 200px;
+}
+
+p,
+ul,
+il {
+    padding-left: 1em;
+}
+
+p {
+    color: firebrick;
+}
+
+table {
+    table-layout: fixed;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+.country {
+    color: blueviolet;
+}
+
+.pic {
+    /*   border: 1px solid black; */
+    /*   background-color: gold; */
+    text-align: center;
+}
+
+/*#sushiImg {
+    float: right;
+  }*/
+.food {
+    color: #00cc99;
+}
+
+img.full-width {
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
